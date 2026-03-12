@@ -40,7 +40,7 @@ The assistant responds in structured Markdown with headings for each gift, a sho
 ### Installation
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/the-first-elder/gift-geenie-ai-app
 cd gift_gennie
 npm install
 ```
